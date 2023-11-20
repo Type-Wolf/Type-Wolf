@@ -45,3 +45,11 @@
 ![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,discord,express,bootstrap,jest,materialui,styledcomponents,selenium,tailwind,&theme=dark)
 
 <br>
+
+## **Database** 📝
+
+<br>
+
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase&theme=dark)
+
+<br>
