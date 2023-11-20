@@ -53,3 +53,11 @@
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase&theme=dark)
 
 <br>
+
+## **Editor** 💻
+
+<br>
+
+![My Skills](https://skillicons.dev/icons?i=vim,vscode&theme=dark)
+
+<br>
