@@ -61,3 +61,11 @@
 ![My Skills](https://skillicons.dev/icons?i=vim,vscode&theme=dark)
 
 <br>
+
+## **Hosting** 📡
+
+<br>
+
+![My Skills](https://skillicons.dev/icons?i=github,heroku,firebase,nextjs&theme=dark)
+
+<br>
