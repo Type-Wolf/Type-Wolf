@@ -30,7 +30,7 @@
 
 <br>
 
-## **Larges** 📚
+## **Languages** 📚
 
 <br>
 
@@ -67,5 +67,13 @@
 <br>
 
 ![My Skills](https://skillicons.dev/icons?i=github,heroku,firebase,nextjs&theme=dark)
+
+<br>
+
+## **Languages Status 📊**
+
+<br>
+
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=type-wolf&orgs=branaid,Seven-Dao-Official,Ito-Kogyo&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=tokyonight&card_width=800px)
 
 <br>
