@@ -37,3 +37,11 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,nodejs,solidity,py,git,md,php,powershell,bash&theme=dark)
 
 <br>
+
+## **Framework** ⚙️
+
+<br>
+
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,discord,express,bootstrap,jest,materialui,styledcomponents,selenium,tailwind,&theme=dark)
+
+<br>
