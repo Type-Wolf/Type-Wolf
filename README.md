@@ -77,3 +77,9 @@
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=type-wolf&orgs=branaid,Seven-Dao-Official,Ito-Kogyo&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=tokyonight&card_width=800px)
 
 <br>
+
+## **Trophys** 🏆
+
+<br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=type-wolf&theme=tokyonight&column=7)
